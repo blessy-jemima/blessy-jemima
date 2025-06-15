@@ -3,7 +3,7 @@
 - 🚀 Passionate about analyzing data and currently diving into Java—armed with Python,SQL Server, C++, MySQL, HTML, CSS, Flexbox, and Bootstrap to build, decode, and deliver insights that matter.
 - 💻🌱 Eager to collaborate on real-world projects that transform code and data into meaningful impact—let’s build the extraordinary.
 - 📫 How to reach me ? → Connect with me on LinkedIn 💬 ----> https://www.linkedin.com/in/blessy-jemima-07725m  
-- ✨ Pronouns: She/Her | You can call me JemiMa
+- ✨ Pronouns: She/Her
 - ⚡ Fun fact: I’m a biomaths student who boldly switched lanes to earn a BSc in Computer Science — where logic meets curiosity, and data tells the story.
 
 <!---
