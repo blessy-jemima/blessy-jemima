@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @blessy-jemima
+- 👋 Hi, I’m Jemima
 - 📊 Turning raw data into sharp insights — I'm a data analyst driven to decode patterns, predict outcomes, and power decisions.
 - 🚀 Passionate about analyzing data and currently diving into Java—armed with Python,SQL Server, C++, MySQL, HTML, CSS, Flexbox, and Bootstrap to build, decode, and deliver insights that matter.
 - 💻🌱 Eager to collaborate on real-world projects that transform code and data into meaningful impact—let’s build the extraordinary.
